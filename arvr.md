@@ -47,8 +47,9 @@
 - 김진모 교수님
 - 추후 추가
 
-### 37. 팀명, 제목
-- 김기민 
+### 37. 식빵이 좋아, 모바일 디바이스를 이용한 외래어 변환 AR 어플리케이션
+- 영상 추후 
+- **차신영**, 김기민, 김민주, 전병관
 - 이항찬 교수님
 
 ### 39. DEV (Disaster Education with VR), Disastrous Situation Simulation Software Using VR
